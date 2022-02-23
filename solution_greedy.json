@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Rake the leaves",
+    "start": "09:00",
+    "duration": 3,
+    "importance": 30,
+    "maellard": false
+  },
+  {
+    "name": "Organize a movie night",
+    "start": "17:00",
+    "duration": 1,
+    "importance": 6,
+    "maellard": false
+  }
+]
